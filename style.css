@@ -1,0 +1,61 @@
+
+.body{
+background: rgb(41, 38, 38);
+margin-left: 20px;
+color:greenyellow;
+padding-left: 9px;
+}
+
+
+
+
+
+
+
+
+
+.menu {
+    position: fixed;
+   
+    z-index: 10;
+    
+    width: 100%;
+   
+    color:greenyellow;
+    font-family: 'Lucida Handwriting';
+    
+ }
+
+ .links{
+   padding-right: 30px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+ }
+
+ .links:hover {
+    font-size: 25px;
+    text-decoration: underline;
+  }
+
+  .products {
+   margin-left:  40px;
+   font-family:  monospace;
+   
+   
+  }
+  #about_us{
+   margin-left: 40px;
+   font-family: cursive;
+  }
+  .btn{
+   background: grey;
+   border-radius: 20px;
+   width :700px;
+   height: 20px;
+
+  }
+ 
+ 
+  
+  
